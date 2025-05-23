@@ -13,5 +13,11 @@
 - Figma (макет)  
 
 ## 📸 Скриншоты  
-![Главная страница](https://github.com/user-attachments/assets/8b83788a-ded7-46b6-8df0-a606f994cf70)
-![Главная страница под мобилки] (https://github.com/user-attachments/assets/76245c2a-9e82-4c2a-a5f4-79724340d807)
+![Главная страница] ![image](https://github.com/user-attachments/assets/fb4700b8-32dd-4a27-a6c0-01a185541614)
+
+![Главная страница под мобилки] ![image](https://github.com/user-attachments/assets/50ff9a33-e4a1-4293-9f79-0676121683db)
+
+
+## 📞 Свяжись со мной  
+💬 Telegram: [@dima_coder](https://t.me/greteiks)  
+📧 Почта: greteik777@gmail.com
